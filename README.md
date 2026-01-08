@@ -19,9 +19,9 @@
   <b>Batuhan Arseven</b>
 </h1>
 
-Heya! I'm Batuhan, a **Biomedical Engineer** currently living in Istanbul, Turkey. I'm pursuing my 
+Heya! I'm Batuhan, a **Electrical&Electronics and Biomedical Engineer** currently living in Istanbul, Turkey. I'm pursuing my 
 <a href="https://boun.edu.tr">MSc at Boğaziçi University</a>, 
-working at **Siemens Healthineers**, and building cool medical devices on the side.
+working at **Siemens Healthineers**, and try to do some projects on the side.
 
 <br>
 
@@ -36,7 +36,9 @@ working at **Siemens Healthineers**, and building cool medical devices on the si
 </div>
 </p>
 
-~~~python
+</div>
+
+```python
 class BatuhanArseven:
     
     def __init__(self):
@@ -66,7 +68,9 @@ class BatuhanArseven:
 if __name__ == '__main__':
     me = BatuhanArseven()
     print(me.say_hi())
-~~~
+```
+
+<div align="center">
 
 <br>
 
@@ -81,31 +85,15 @@ if __name__ == '__main__':
 
 <br>
 
-<details>
-<summary>🦾 Current Projects</summary>
-
-<br>
+### Current Projects
 
 | 🔬 Project | 📝 Description |
 |:-----------|:---------------|
 | **sEMG Wristband** | Modular surface EMG wristband with BLE, flexible electrodes & real-time gesture recognition |
-| **MRI Classifier** | Alzheimer's classification using CNN architectures on MRI slices |
+| **Alzheimer Classifier** | Alzheimer's classification using CNN architectures on MRI slices |
 | **Image Quality Analyzer** | Python + React app analyzing DICOM metadata for MRI/CT compliance |
 | **Earthquake Risk Platform** | Seismic risk visualization for Sarıyer with Google Maps |
 | **PPG Swift App** | iPhone camera-based BPM measurement via photoplethysmography |
-
-</details>
-
-<details>
-<summary>📊 GitHub Stats</summary>
-
-<br>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=batucros&show_icons=true&hide_border=true&bg_color=282828&title_color=FF6600&icon_color=98b982&text_color=ffffff" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=batucros&hide_border=true&background=282828&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideLabels=ffffff&currStreakNum=ffffff&dates=98b982" alt="GitHub Streak"/>
-</p>
-
-</details>
 
 <br>
 
