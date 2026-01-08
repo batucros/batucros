@@ -40,7 +40,7 @@
  * @param {string} jobTitle - Electrical & Electronics Engineer @ Siemens Healthineers
  * @param {string} specialization - Neural Networks, IoT Medical Devices, sEMG Systems, AI in Healthcare
  * @param {string} currentFocus - Modular sEMG Wristband for Human-Machine Interfaces
- * @param {string} thesis - Surface EMG Wearable Device under Prof. Dr. Mehmed Özkan
+ * @param {string} thesis - Surface EMG Wearable Device under 
  * @param {string} interests - Biosignal Processing, Embedded Systems, Healthcare AI
  * @param {string} hobbies - Building circuits, exploring new tech, coffee ☕
  * @param {string} motto - "Combining circuits, code, and care — engineering for health."
@@ -105,7 +105,6 @@
       <br>
       <br>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" title="Arduino"/>
-      <img width="30px" src="https://www.vectorlogo.zone/logos/espaborede/espaborede-icon.svg" alt="ESP32" title="ESP32"/>
       <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" title="Raspberry Pi"/>
       <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="KiCad" title="KiCad"/>
     </kbd>
@@ -173,14 +172,11 @@
 ### 🏫 Education
 - **MSc Biomedical Engineering** - Boğaziçi University *(Current)*
   - Thesis: Modular sEMG Wearable Device for Human-Machine Interfaces
-  - Advisor: Prof. Dr. Mehmed Özkan
   
 - **BSc Electrical & Electronics Engineering** + **Biomedical Engineering**
 
 ### 💼 Experience
 - **Siemens Healthineers** - Electrical & Electronics Engineer *(Istanbul)*
-  - Medical device engineering and quality assurance
-  - DICOM systems and imaging equipment
 
 </div>
 
@@ -190,29 +186,7 @@
 <summary>💡 Quote</summary>
 
 <br>
-<blockquote>
-  "The best way to predict the future is to invent it."
-  <br><strong>— Alan Kay</strong>
-</blockquote>
-<br>
-<blockquote>
-  "Combining circuits, code, and care — engineering for health."
-  <br><strong>— My Philosophy</strong>
-</blockquote>
 
-</details>
-
-<details>
-<summary>😄 Free DOSE Hit</summary>
-
-<br>
-<small><i>DOSE (dopamine, oxytocin, serotonin & endorphin), refresh page if dose was ineffective.</i></small>
-<br><br>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
-</div>
-
-</details>
 
 <details>
 <summary>🤝 Let's Connect!</summary>
@@ -278,4 +252,3 @@ Credit: [batucros](https://github.com/batucros) | Inspired by [10Kartik](https:/
 
 Last Edited: January 2025
 
-⭐️ *Inspired by Siemens Healthineers innovation and human-centered design.*
