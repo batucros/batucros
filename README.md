@@ -35,7 +35,6 @@ working at **Siemens Healthineers**, and building cool medical devices on the si
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=282828">
 </div>
 </p>
-
 ```python
 class BatuhanArseven:
     
@@ -45,17 +44,10 @@ class BatuhanArseven:
         self.location = "Istanbul, Turkey"
         self.education = {
             "degree": "MSc Biomedical Engineering",
-            "university": "Boğaziçi University",
-            "advisor": "Prof. Dr. Mehmed Özkan"
+            "university": "Boğaziçi University"
         }
         self.work = "Siemens Healthineers"
         self.role = "Electrical & Electronics Engineer"
-        self.interests = [
-            "sEMG Systems",
-            "Neural Networks", 
-            "IoT Medical Devices",
-            "AI in Healthcare"
-        ]
         self.current_project = "Modular sEMG Wristband"
         self.linkedin = "linkedin.com/in/batuhanarseven"
         self.email = "batuhan.arseven06@gmail.com"
@@ -114,6 +106,16 @@ if __name__ == '__main__':
 
 </details>
 
+<details>
+<summary>😄 Need a laugh?</summary>
+
+<br>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=gruvbox" alt="Jokes Card" />
+</div>
+
+</details>
+
 <br>
 
 <div align="center">
@@ -128,14 +130,8 @@ if __name__ == '__main__':
   </a>
 </div>
 
-<br>
-
-> *"The best way to predict the future is to invent it."* — Alan Kay
-
 </details>
 
 ![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
 </div>
-
-------
