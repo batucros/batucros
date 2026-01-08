@@ -35,7 +35,8 @@ working at **Siemens Healthineers**, and building cool medical devices on the si
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=282828">
 </div>
 </p>
-```python
+
+~~~python
 class BatuhanArseven:
     
     def __init__(self):
@@ -65,7 +66,7 @@ class BatuhanArseven:
 if __name__ == '__main__':
     me = BatuhanArseven()
     print(me.say_hi())
-```
+~~~
 
 <br>
 
@@ -103,16 +104,6 @@ if __name__ == '__main__':
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=batucros&show_icons=true&hide_border=true&bg_color=282828&title_color=FF6600&icon_color=98b982&text_color=ffffff" alt="GitHub Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=batucros&hide_border=true&background=282828&ring=FF6600&fire=FF6600&currStreakLabel=FF6600&sideLabels=ffffff&currStreakNum=ffffff&dates=98b982" alt="GitHub Streak"/>
 </p>
-
-</details>
-
-<details>
-<summary>😄 Need a laugh?</summary>
-
-<br>
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=gruvbox" alt="Jokes Card" />
-</div>
 
 </details>
 
