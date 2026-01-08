@@ -4,18 +4,7 @@
 
 <div align="center">
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
-
-<details>
-<summary>🔬 Open Profile</summary>
-
-<br>
-
-<h1 align="center">
-  <b>Batuhan Arseven</b>
-</h1>
-
-Heya! I'm Batuhan, a **Electrical&Electronics and Biomedical Engineer** currently living in Istanbul, Turkey. I'm pursuing my 
+Howdy! I'm Batuhan, a **Electrical&Electronics and Biomedical Engineer** currently living in Istanbul, Turkey. I'm pursuing my 
 <a href="https://boun.edu.tr">MSc at Boğaziçi University</a>, 
 working at **Siemens Healthineers**, and try to do some projects on the side.
 
@@ -29,7 +18,10 @@ working at **Siemens Healthineers**, and try to do some projects on the side.
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=282828">
 </p>
-```python
+
+</div>
+
+~~~python
 class BatuhanArseven:
     
     def __init__(self):
@@ -59,7 +51,9 @@ class BatuhanArseven:
 if __name__ == '__main__':
     me = BatuhanArseven()
     print(me.say_hi())
-```
+~~~
+
+<div align="center">
 
 <p align="center">
   <img src="https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=E7352C&labelColor=282828">
@@ -96,6 +90,5 @@ if __name__ == '__main__':
 
 </details>
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
 
 </div>
