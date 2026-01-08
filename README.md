@@ -17,6 +17,7 @@ working at **Siemens Healthineers**, and try to do some projects on the side.
   <img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=FA7343&labelColor=282828">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=282828">
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=282828">
 </p>
 
 </div>
@@ -56,12 +57,14 @@ if __name__ == '__main__':
 <div align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=E7352C&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=282828">
-  <img src="https://img.shields.io/badge/-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=314CB0&labelColor=282828">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=282828">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=282828">
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=7F52FF&labelColor=282828">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=282828">
+
 </p>
 
 <h3 align="center">Current Projects</h3>
@@ -86,6 +89,10 @@ if __name__ == '__main__':
   <a href="https://github.com/batucros">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=282828" alt="GitHub" />
   </a>
+	<a href="https://g.dev/ba2han-r7">
+  <img src="https://img.shields.io/badge/-Google_Developer-4285F4?style=for-the-badge&logo=googledevelopers&logoColor=ffffff&labelColor=282828" alt="Google Developer Profile" />
+</a>
+
 </p>
 
 </details>
