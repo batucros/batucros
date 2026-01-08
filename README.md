@@ -1,5 +1,3 @@
-<br>
-
 <p align="center">
   <img src="https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=E7352C&labelColor=282828">
   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=00979D&labelColor=282828">
@@ -9,9 +7,7 @@
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=282828">
 </p>
 
-<br>
-
-<h3>Current Projects</h3>
+<h3 align="center">Current Projects</h3>
 
 | 🔬 Project | 📝 Description |
 |:-----------|:---------------|
